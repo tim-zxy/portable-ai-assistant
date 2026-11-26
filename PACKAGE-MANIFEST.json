@@ -1,0 +1,107 @@
+{
+  "product": "Portable AI Assistant",
+  "repository": "portable-ai-assistant",
+  "baseline_version": "0.1.0",
+  "package_revision": "0.1.1",
+  "status": "consolidated design baseline for E0; not implementation evidence",
+  "contents": {
+    "root_instructions": "AGENTS.md",
+    "formal_engineering_documents": "docs/00-PRODUCT-PRD.md through docs/13-RELEASE-AND-HANDOFF.md",
+    "operational_documents": [
+      "docs/14-E0-TECHNICAL-VALIDATION.md",
+      "docs/15-E0-STARTUP-PROMPT.md"
+    ]
+  },
+  "generated_files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "4d6ab52ede740db0ac82c4749336ef1ba329fbf87ed0742e31a23025e0303838",
+      "bytes": 8164
+    },
+    {
+      "path": "README.md",
+      "sha256": "fd00584ee85366cbf0c2e0159e2fc24741bf3bfd222386a55e39d6ff987cc1c2",
+      "bytes": 4356
+    },
+    {
+      "path": "docs/00-PRODUCT-PRD.md",
+      "sha256": "174794f785724914f7aa0f0831c054cadeeba706bba6b4e87282bf4a120d1974",
+      "bytes": 8388
+    },
+    {
+      "path": "docs/01-SYSTEM-ARCHITECTURE.md",
+      "sha256": "8241ac0920d4e0f3e9e31a0d2f6318cd2bee0ba41f1abf48b2904c5ce72665c6",
+      "bytes": 6293
+    },
+    {
+      "path": "docs/02-DOMAIN-MODEL.md",
+      "sha256": "3ea9ef52115e1d7b08f3a7977b1ddd0a871062052100e9508540a1cfa86e9c29",
+      "bytes": 7264
+    },
+    {
+      "path": "docs/03-API-AND-SPI-CONTRACTS.md",
+      "sha256": "f870b5a09638cfc9e048786551659194cf6c70c7b5e5819a32a8ecbf77da57ef",
+      "bytes": 5546
+    },
+    {
+      "path": "docs/04-INTELLIGENCE-AND-RUNTIME.md",
+      "sha256": "6706596e81edb732cb55d1d3e4e04c223fb4209b03a51b6efa9357d3b0089fec",
+      "bytes": 5780
+    },
+    {
+      "path": "docs/05-WORKSPACE-AND-INTEGRATIONS.md",
+      "sha256": "fa81e49827e6083317053220c24fc36dcf615f400ee4b41c6636fb3f01c8874f",
+      "bytes": 5196
+    },
+    {
+      "path": "docs/06-MEMORY-AND-CONTEXT.md",
+      "sha256": "0b957890018133131331d292e120eefde7f9e99e61ec3fa3a736479484d5f1d5",
+      "bytes": 5480
+    },
+    {
+      "path": "docs/07-SECURITY-AND-AUTHORIZATION.md",
+      "sha256": "43879dc3621128652b08389c364f4b8b9e88652c788f097b56e35fec02b3e0e3",
+      "bytes": 4879
+    },
+    {
+      "path": "docs/08-UI-AND-INTERACTION.md",
+      "sha256": "fcbd367d114031e507484fbee0c4b1a954d1bd6bfc7ca5fc8fe36daac88637b9",
+      "bytes": 5311
+    },
+    {
+      "path": "docs/09-ENGINEERING-PLAN.md",
+      "sha256": "c8a49a13a3192c4dd6596349d7b0553dd60d11d4248827a7f9fbbb225060919b",
+      "bytes": 4929
+    },
+    {
+      "path": "docs/10-ENGINEERING-RULES.md",
+      "sha256": "8cc681c143d9258b78ecf954895428b68d1e1d9ba6c881d0034c36067639fbe5",
+      "bytes": 4033
+    },
+    {
+      "path": "docs/11-REAL-TASK-EVALUATION.md",
+      "sha256": "485b5aeafe77ef3c58f4317cce3adf93aa6f578fd219a5931a7af33c9ec72ce4",
+      "bytes": 5042
+    },
+    {
+      "path": "docs/12-ARCHITECTURE-EVOLUTION.md",
+      "sha256": "41bae4ee9d94f062ebeb67b531c8dde1f949de7c98a6e595d9b02946df4c6368",
+      "bytes": 4140
+    },
+    {
+      "path": "docs/13-RELEASE-AND-HANDOFF.md",
+      "sha256": "db0817808f510eb658eea6222a120e5e81c891fa923a9b0a89e6a2e886e973b2",
+      "bytes": 4001
+    },
+    {
+      "path": "docs/14-E0-TECHNICAL-VALIDATION.md",
+      "sha256": "d702985de334f5be89f3eafb6d82368f2721293abf731121566044e633150fd5",
+      "bytes": 4236
+    },
+    {
+      "path": "docs/15-E0-STARTUP-PROMPT.md",
+      "sha256": "d9edcff25e36876d7ac16257e36df3948c284de7cc2b5bdf825b4d9542faa4af",
+      "bytes": 3314
+    }
+  ]
+}
